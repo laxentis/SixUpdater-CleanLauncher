@@ -9,3 +9,7 @@ You are also solely responsible for the protection of your equipment and backup 
 Download
 --------
 https://github.com/laxentis/SixUpdater-CleanLauncher/blob/master/SixUpdater-CleanLauncher/bin/Release/SixUpdater-CleanLauncher.exe?raw=true
+
+Known bugs
+----------
+Sorry, no translations ATM.
