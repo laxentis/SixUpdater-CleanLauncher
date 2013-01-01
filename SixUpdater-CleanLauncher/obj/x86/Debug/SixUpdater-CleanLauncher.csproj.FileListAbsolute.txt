@@ -1,0 +1,12 @@
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\bin\Debug\SixUpdater-CleanLauncher.exe
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\bin\Debug\SixUpdater-CleanLauncher.pdb
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\SixUpdater_CleanLauncher.Form1.resources
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\SixUpdater_CleanLauncher.Properties.Resources.resources
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\SixUpdater-CleanLauncher.exe
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\SixUpdater-CleanLauncher.pdb
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\bin\Debug\pl-PL\SixUpdater-CleanLauncher.resources.dll
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\SixUpdater_CleanLauncher.Form1.pl-PL.resources
+D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Debug\pl-PL\SixUpdater-CleanLauncher.resources.dll
