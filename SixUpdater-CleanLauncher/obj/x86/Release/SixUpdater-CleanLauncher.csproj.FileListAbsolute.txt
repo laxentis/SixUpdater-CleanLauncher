@@ -13,3 +13,5 @@ D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Re
 D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\bin\Release\en\SixUpdater-CleanLauncher.resources.dll
 D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Release\SixUpdater_CleanLauncher.Form1.en.resources
 D:\PROGRAMOWANIE\C#\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Release\en\SixUpdater-CleanLauncher.resources.dll
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Release\SixUpdater-CleanLauncher.exe
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x86\Release\SixUpdater-CleanLauncher.pdb

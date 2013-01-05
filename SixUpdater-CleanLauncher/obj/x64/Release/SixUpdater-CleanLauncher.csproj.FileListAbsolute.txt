@@ -1,0 +1,15 @@
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\bin\x64\Release\SixUpdater-CleanLauncher.exe
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\bin\x64\Release\SixUpdater-CleanLauncher.pdb
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\bin\x64\Release\en\SixUpdater-CleanLauncher.resources.dll
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\bin\x64\Release\pl-PL\SixUpdater-CleanLauncher.resources.dll
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\ResolveAssemblyReference.cache
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\SixUpdater_CleanLauncher.Form1.resources
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\SixUpdater_CleanLauncher.Properties.Resources.resources
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\SixUpdater_CleanLauncher.Form1.en.resources
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\SixUpdater_CleanLauncher.Form1.pl-PL.resources
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\GenerateResource.read.1.tlog
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\GenerateResource.write.1.tlog
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\en\SixUpdater-CleanLauncher.resources.dll
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\pl-PL\SixUpdater-CleanLauncher.resources.dll
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\SixUpdater-CleanLauncher.exe
+D:\DOKUMENTY\MyDocs\GitHub\SixUpdater-CleanLauncher\SixUpdater-CleanLauncher\obj\x64\Release\SixUpdater-CleanLauncher.pdb
